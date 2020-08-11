@@ -1,0 +1,240 @@
+#hide {
+  display: none;
+}
+
+.walrus-showing {
+  display: none;
+}
+
+.clickable-show {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+/* -------------------------- */
+
+body h1 { 
+  font-family:"Copperplate Gothic Light"; 
+  font-size: 70px;
+  text-decoration: underline;
+  text-shadow: white 2px 1px 1px;
+}
+
+body {
+  background-color: lightskyblue;
+  font-family: Arial;
+}
+
+body h3 {
+  font-family: fantasy;
+  font-size: 30px;
+}
+
+.column1show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column1hide{
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column2 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column3 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  border: 5px solid lightslategray;
+  background-color: honeydew;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column4 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column5 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column6 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column7 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column8 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column9 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column10 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column11 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column12 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column13 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column14 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column15 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column16 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column17 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column18 {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+.column19{
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}

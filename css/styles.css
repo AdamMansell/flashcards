@@ -1,26 +1,278 @@
-#hide {
+/* Column Display Hides --------- */
+.column1hide {
   display: none;
 }
 
-.walrus-showing {
+.column2hide {
   display: none;
 }
 
-.clickable-show {
+.column3hide {
+  display: none;
+}
+
+.column4hide {
+  display: none;
+}
+
+.column5hide {
+  display: none;
+}
+
+.column6hide {
+  display: none;
+}
+
+.column7hide {
+  display: none;
+}
+
+.column8hide {
+  display: none;
+}
+
+.column9hide {
+  display: none;
+}
+
+.column10hide {
+  display: none;
+}
+
+.column11hide {
+  display: none;
+}
+
+.column12hide {
+  display: none;
+}
+
+.column13hide {
+  display: none;
+}
+
+.column14hide {
+  display: none;
+}
+
+.column15hide {
+  display: none;
+}
+
+.column16hide {
+  display: none;
+}
+
+.column17hide {
+  display: none;
+}
+
+.column18hide {
+  display: none;
+}
+
+.column19hide {
+  display: none;
+}
+
+/* Clickable Shows ----------- */
+.clickable-show1 {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable-hide {
+.clickable-show2 {
   cursor: pointer;
   color: #0088cc;
 }
 
+.clickable-show3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show10 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show11 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show12 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show13 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show14 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show15 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show16 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show17 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show18 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show19 {
+  cursor: pointer;
+  color: #0088cc;
+} 
+
+/* Clickable Hides ----------- */
+.clickable-hide1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide10 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide11 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide12 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide13 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide14 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide15 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide16 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide17 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide18 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide19 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+/* hover ----------- */
 .clickable:hover {
   text-decoration: underline;
 }
 
-/* -------------------------- */
+/* basic css ------------------- */
 
 body h1 { 
   font-family:"Copperplate Gothic Light"; 
@@ -39,6 +291,7 @@ body h3 {
   font-size: 30px;
 }
 
+/* Column 1 ----------- */
 .column1show {
   float: left;
   text-align: center;
@@ -48,7 +301,6 @@ body h3 {
   margin: 15px 15px 15px 15px;
   box-shadow: black 5px 5px 5px;
 }
-
 .column1hide{
   float: left;
   text-align: center;
@@ -59,7 +311,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column2 {
+/* Column 2 ----------- */
+.column2show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column2hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -69,7 +331,8 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column3 {
+/* Column 3 ----------- */
+.column3show {
   float: left;
   text-align: center;
   width: 30%;
@@ -78,18 +341,7 @@ body h3 {
   margin: 15px 15px 15px 15px;
   box-shadow: black 5px 5px 5px;
 }
-
-.column4 {
-  float: left;
-  text-align: center;
-  width: 30%;
-  background-color: honeydew;
-  border: 5px solid lightslategray;
-  margin: 15px 15px 15px 15px;
-  box-shadow: black 5px 5px 5px;
-}
-
-.column5 {
+.column3hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -99,7 +351,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column6 {
+/* Column 4 ----------- */
+.column4show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column4hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -109,7 +371,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column7 {
+/* Column 5 ----------- */
+.column5show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column5hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -119,7 +391,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column8 {
+/* Column 6 ----------- */
+.column6show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column6hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -129,7 +411,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column9 {
+/* Column 7 ----------- */
+.column7show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column7hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -139,7 +431,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column10 {
+/* Column 8 ----------- */
+.column8show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column8hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -149,7 +451,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column11 {
+/* Column 9 ----------- */
+.column9show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column9hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -159,7 +471,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column12 {
+/* Column 10 ----------- */
+.column10show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column10hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -169,7 +491,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column13 {
+/* Column 11 ----------- */
+.column11show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column11hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -179,7 +511,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column14 {
+/* Column 12 ----------- */
+.column12show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column12hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -189,7 +531,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column15 {
+/* Column 13 ----------- */
+.column13show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column13hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -199,7 +551,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column16 {
+/* Column 14 ----------- */
+.column14show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column14hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -209,7 +571,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column17 {
+/* Column 15 ----------- */
+.column15show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column15hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -219,7 +591,17 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column18 {
+/* Column 16 ----------- */
+.column16show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column15hide{
   float: left;
   text-align: center;
   width: 30%;
@@ -229,7 +611,57 @@ body h3 {
   box-shadow: black 5px 5px 5px;
 }
 
-.column19{
+/* Column 17 ----------- */
+.column17show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column17hide{
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+/* Column 18 ----------- */
+.column18show {
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column18hide{
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+
+/* Column 19 ----------- */
+.column19show{
+  float: left;
+  text-align: center;
+  width: 30%;
+  background-color: honeydew;
+  border: 5px solid lightslategray;
+  margin: 15px 15px 15px 15px;
+  box-shadow: black 5px 5px 5px;
+}
+.column19hide{
   float: left;
   text-align: center;
   width: 30%;
